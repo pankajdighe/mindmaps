@@ -1,4 +1,5 @@
 @startmindmap
+
 * root node
 ** some first level node
 ***_ second level node
@@ -7,4 +8,5 @@
 ***_ bar
 ***_ foobar
 ** another first level node
+
 @endmindmap
